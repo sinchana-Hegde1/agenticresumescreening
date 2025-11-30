@@ -1,2 +1,2 @@
-# AgenticAI-Edureka-ResumeScreening
+# Agentic-ResumeScreening
 Resume Screening Assignment
